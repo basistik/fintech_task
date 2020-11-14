@@ -1,0 +1,11 @@
+variable "key_access" {
+  default = ""
+}
+
+variable "key_secret" {
+  default = ""
+}
+
+variable "key_name" {
+  default = ""
+}
